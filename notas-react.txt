@@ -1,0 +1,3 @@
+// En React las clases no se crean con la palabra class sino con className.
+
+// En React una forma muy común de crear componentes es utilizando funciones. Sin embargo, también se pueden crear utilizando clases.
